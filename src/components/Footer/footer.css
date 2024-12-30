@@ -1,0 +1,12 @@
+/* Basic styling for the footer */
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 20px;
+    position: fixed; /* Sticks the footer to the bottom of the viewport */
+    bottom: 0;
+    width: 100%; /* Ensures the footer spans the entire width of the page */
+    font-size: 14px;
+  }
+  
